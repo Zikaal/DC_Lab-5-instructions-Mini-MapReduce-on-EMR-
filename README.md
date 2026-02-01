@@ -1,0 +1,1 @@
+# DC_Lab-5-instructions-Mini-MapReduce-on-EMR-
